@@ -1,0 +1,16 @@
+.error {
+    color: red;
+}
+
+.hide {
+    display: none;
+}
+
+.input-group-append-btn:hover {
+    cursor: pointer;
+}
+
+.side-menu__icon {
+    font-size: 18px !important;
+    line-height: 18px !important;
+}
